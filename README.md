@@ -9,9 +9,9 @@ IMPORTANT info to remember:
 
 ### Some useful commands for using git in the terminal:
 
-  git init                              -> Initialize the enviroment
-  git status                            -> Shows the status of your local repository
-  git add .                             -> Adds all the files in the main respository
-  git commit -m "message here"          -> Description of the changes
-  git push origin main                  -> To upload your changes
-  git pull origin main                  -> To download the changes
+  git init                              -> Initialize the enviroment \\
+  git status                            -> Shows the status of your local repository \\
+  git add .                             -> Adds all the files in the main respository \\
+  git commit -m "message here"          -> Description of the changes \\
+  git push origin main                  -> To upload your changes \\
+  git pull origin main                  -> To download the changes \\
